@@ -1,1 +1,1 @@
-# advay_project
+I made a website called Argo. Argo is a website that can take any input that the user uses, and direct it to google. You can also log in, and see the copyright rules with a hyper link beow the register page.
